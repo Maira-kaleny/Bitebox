@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Maira-kaleny/Bitebox/static/css/main.dd179986.css",
+    "main.js": "/Maira-kaleny/Bitebox/static/js/main.52d17d60.js",
+    "static/js/787.26b7c729.chunk.js": "/Maira-kaleny/Bitebox/static/js/787.26b7c729.chunk.js",
+    "index.html": "/Maira-kaleny/Bitebox/index.html",
+    "main.dd179986.css.map": "/Maira-kaleny/Bitebox/static/css/main.dd179986.css.map",
+    "main.52d17d60.js.map": "/Maira-kaleny/Bitebox/static/js/main.52d17d60.js.map",
+    "787.26b7c729.chunk.js.map": "/Maira-kaleny/Bitebox/static/js/787.26b7c729.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd179986.css",
+    "static/js/main.52d17d60.js"
+  ]
+}
